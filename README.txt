@@ -27,9 +27,9 @@ Requirements
 
 Installation
  1) Clone the repository:
-	git clonehttps://github.com/FanisFS/bookstore
+	git clone https://github.com/FanisFS/bookstore
  2) Navigate to the project directory:
-	cd bookstore-api
+	cd bookstore
  3) Install dependencies using Maven:
 	mvn clean install
 
